@@ -12,7 +12,7 @@
         "illuminate/http": "^8.21"
     },
     "autoload": {
-        "pst-4": {
+        "psr-4": {
             "Modulos\\": "Modulos/"
         }
     }
