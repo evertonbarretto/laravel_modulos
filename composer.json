@@ -1,6 +1,6 @@
 {
     "name": "evertonbarreto/laravel_modulos",
-    "description": "Divis\u0000o em m\u0000dulos em aplica\u0000\u0000es laravel",
+    "description": "Divisao modulos laravel",
     "license": "MIT",
     "autoload": {
         "psr-4": {
