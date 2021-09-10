@@ -1,0 +1,19 @@
+{
+    "name": "evertonbarreto/laravel_modulos",
+    "description": "Divis\u0000o em m\u0000dulos em aplica\u0000\u0000es laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Evertonbarreto\\LaravelModulos\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "^8.0",
+        "illuminate/http": "^8.21"
+    },
+    "autoload": {
+        "pst-4": {
+            "Modulos\\": "Modulos/"
+        }
+    }
+}
